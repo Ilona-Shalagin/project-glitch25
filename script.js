@@ -1,5 +1,5 @@
 function derbyKentuckyCountdown(){
-    const derbyDate = new Date("May 7, 2023 19:00");
+    const derbyDate = new Date("May 7, 2026 19:00");
     const now = new Date();
     
     const result = derbyDate-now;
